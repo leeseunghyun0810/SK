@@ -91,7 +91,7 @@ html {scroll-behavior: smooth;}
 
 #header .logo {
   float: left;
-  background: url(/images/img_logo.png)no-repeat center / cover;
+  background: url(../images/img_logo.png)no-repeat center / cover;
   width: 91px;
   height: 48px;
   margin: 0 67px;
